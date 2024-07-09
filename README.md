@@ -1,1 +1,1 @@
-# Pac-man-in-Python
+# Pacman-in-Python
